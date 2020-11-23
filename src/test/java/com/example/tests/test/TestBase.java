@@ -14,9 +14,4 @@ public class TestBase {
     @Autowired
     protected ApplicationManager app;
 
-//    @AfterClass
-//    public static void shutDown() {
-//        ApplicationManager.app.stop();
-//    }
-
 }

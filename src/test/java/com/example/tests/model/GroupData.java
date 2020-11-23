@@ -1,8 +1,6 @@
 package com.example.tests.model;
 
 import com.example.tests.ApplicationManager;
-import lombok.Builder;
-import lombok.Data;
 import org.openqa.selenium.By;
 
 public class GroupData {
