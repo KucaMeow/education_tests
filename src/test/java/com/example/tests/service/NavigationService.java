@@ -9,6 +9,6 @@ public class NavigationService extends ServiceBase {
     }
 
     public void openHomePage() {
-        driver.get("http://localhost/hello");
+        driver.get(settings.getBasicUrl() + "/hello");
     }
 }

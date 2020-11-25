@@ -32,5 +32,4 @@ public class Generator {
         pw.close();
     }
 
-
 }
